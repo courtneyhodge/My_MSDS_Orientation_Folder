@@ -12,3 +12,16 @@ below is some markedown where I played around with formatting
 ## H2
 ### H3
 #### H4
+
+## Emphasis
+italics with *asterisks* or _underscores_
+bold with **double asterisks** or __double underscores__
+italics and bold combined with **_asterists and underscores_**
+strikethrough with ~~two tildes~~
+
+## Lists
+1. ordered
+2. lists
+3. just type a number with period
+
+
