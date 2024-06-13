@@ -6,13 +6,9 @@ Here's the website where I learned [Github markdown](https://github.com/adam-p/m
 ## Practice Area
 below is some markedown where I played around with formatting
 
-### Badges readme
-* program badges - these badges
-* skills badges
+## Headers
 
-In order to meet...
-* Residential MSDS - [link]
-
-### Skill Badges on Offer
-Here is the current...
-* [Github]
+# H1
+## H2
+### H3
+#### H4
